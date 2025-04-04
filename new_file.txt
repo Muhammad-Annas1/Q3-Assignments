@@ -1,0 +1,5 @@
+Hello, world!
+This is Lesson 10 text file.
+Line 1: Karachi
+Line 2: Lahore
+Line 3: Peshawar
