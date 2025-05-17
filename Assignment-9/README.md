@@ -17,6 +17,7 @@ A simple and secure web application built with Streamlit for browsing and purcha
 - Stripe API
 - dotenv
 - JSON (for storing book data)
+- You need to put your own API keys by login into stripe for payment. 
 
 ## Run the program
 - streamlit run app.py
